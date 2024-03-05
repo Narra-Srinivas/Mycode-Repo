@@ -1,0 +1,11 @@
+this is my code
+
+print(hello world);
+
+git
+add
+
+new command
+
+new command 1
+
